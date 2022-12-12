@@ -14,8 +14,14 @@ In addition to the GH-specific structural files, we also use this repository to 
 
 ## Motivation
 
+ICI3D organizes along two primary dimensions: *Functional* teams and *Activity* teams. *Functional* teams represent functions within the overall organization; *Activity* teams correspond to particular offerings of ICI3D, _e.g._ a workshop like MMED.
+
+The *Functional* teams have indefinite lifetimes, though somewhat regularly changing composition. The *Activity* teams are associated with the "next" offering of that activity (or the most recent offering, while post-event feedback / updates / etc occur). Both kinds of teams are persistent, but in general *Activity* teams are reset once post-event work is wrapped - that means basically the membership roster is deleted, and leadership / management folks should be turned over to the next event team.
+
 ## Team Structure
 
 ## Team Permissions
+
+## Turnover
 
 # TODO
